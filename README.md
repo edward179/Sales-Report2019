@@ -23,10 +23,10 @@ This project aim to explore the Sales Report data to understand top performance 
 
 ## Analysis
 
-1. Product
+1. **Product**
 - Understanding which product line have top performance as well as the lower product line that need to be focus on more pushing and proposing the plan to increase revenue.
 
-2. Sales
+2. **Sales**
 - Analyzing the whole sales performance to help business figure out the root cause which optimizing needed to gain more sales.
 
 ### Approach Used
