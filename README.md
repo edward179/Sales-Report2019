@@ -32,17 +32,17 @@ This project aim to explore the Sales Report data to understand top performance 
 ### Approach Used
 
 1. **Setup Environment and Load Dataset**
-> Install and import necessary packages
-> Display the table format of the dataset we wanted to explore
+> - Install and import necessary packages
+> - Display the table format of the dataset we wanted to explore
 
 2. **Clean and Preprocess Data**
-> Clean data: to remove unnecessary rows/columns, fill-in or remove missing values
-> Data enrichment:
+> - Clean data: to remove unnecessary rows/columns, fill-in or remove missing values
+> - Data enrichment:
 > 1. to merge and append data to add more attributes or objects
 > 2. to calculate new columns based on existing attributes
 
 3. **Report and Conduct Analysis**
-> To report and visualize what happened with the business through the data
+> - To report and visualize what happened with the business through the data
 
 ### Key Question
 1. What was the best month for sales? and How much was earned that month?
